@@ -1,0 +1,1 @@
+# sample-port-adaptor-architecture
